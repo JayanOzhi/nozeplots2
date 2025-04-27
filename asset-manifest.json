@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nozeplots2/static/css/main.e6c13ad2.css",
-    "main.js": "/nozeplots2/static/js/main.0dc0465f.js",
+    "main.js": "/nozeplots2/static/js/main.62a499d4.js",
     "static/js/453.ed3810f9.chunk.js": "/nozeplots2/static/js/453.ed3810f9.chunk.js",
     "index.html": "/nozeplots2/index.html",
     "main.e6c13ad2.css.map": "/nozeplots2/static/css/main.e6c13ad2.css.map",
-    "main.0dc0465f.js.map": "/nozeplots2/static/js/main.0dc0465f.js.map",
+    "main.62a499d4.js.map": "/nozeplots2/static/js/main.62a499d4.js.map",
     "453.ed3810f9.chunk.js.map": "/nozeplots2/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0dc0465f.js"
+    "static/js/main.62a499d4.js"
   ]
 }
